@@ -8,14 +8,19 @@ The purpose of this analysis is to use PySpark to perform the ETL process to ext
 How many Vine reviews and non-Vine reviews were there?
 
 - There were 355 reviews. All of them were non vine reviews.
+![1.png](./Resources/1.png)
+![3.png](./Resources/3.png)
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - There were 90 5 star non-Vine reviews. None were Vine reviews
+![2.png](./Resources/2.png)
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 - 25 percent of the reviews were 5 star. There were no Vine reviews.
+![4.png](./Resources/4.png)
 
-Summary: This dataset is drawn from gift card customers. Gift card customers wouldnt be likely to subscribe to vine as a susbribtion is required for gift card purchases. This would lend to the notion that the reviews are not biased. 
+## Summary:
+This dataset is drawn from gift card customers. Gift card customers wouldnt be likely to subscribe to vine as a susbribtion is required for gift card purchases. This would lend to the notion that the reviews are not biased. 
 
